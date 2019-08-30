@@ -3,7 +3,7 @@ require 'pry'
 class Cat 
   attr_accessor :name
   
-  def miau 
+  def meow 
     binding.pry
   end
 end
