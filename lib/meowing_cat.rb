@@ -1,5 +1,5 @@
 require 'pry'
 
 class Cat 
-  binding.pry
+  attr_accessor :name
 end
